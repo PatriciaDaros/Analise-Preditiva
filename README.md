@@ -9,9 +9,10 @@
 ## About the project
 
 <div>
-  Projeto de Ciencia de Dados - Previsão de Vendas
+  Projeto de Ciência de Dados - Previsão de Vendas
+  
+  Projeto desenvolvido com o objetivo de prever as vendas baseando-se no investimento em propagandas por meio de comunicação.
 
-  Projeto desenvolvido com o objetivo de prever as vendas baseado-se no investimento em propagandas por meio de comunicação.
 </div>
 
 
