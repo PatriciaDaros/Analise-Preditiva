@@ -12,12 +12,6 @@
   Projeto de Ciencia de Dados - Previsão de Vendas. Projeto desenvolvido com o objetivo de prever as vendas baseado-se no investimento em propagandas por meio de comunicação.
 
   <a href="#"><img src="Animação.gif" alt="Logo"></a>
-=======
-<div>
-  Projeto de Ciência de Dados - Previsão de Vendas
-  
-  Projeto desenvolvido com o objetivo de prever as vendas baseando-se no investimento em propagandas por meio de comunicação.
-</div>
 
 
 <!-- ============== LANGUAGE ============== -->
