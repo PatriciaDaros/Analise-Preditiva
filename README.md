@@ -1,17 +1,25 @@
 
 <div align="center" id="header">
   
-  <h3>Análise Preditiva com python</h3>
+  <h1>Análise Preditiva com python</h1>
 </div>
 
 
 <!-- ============== ABOUT ============== -->
 ## Sobre o projeto
 
+<<<<<<< HEAD
 <div align="center">
   Projeto de Ciencia de Dados - Previsão de Vendas. Projeto desenvolvido com o objetivo de prever as vendas baseado-se no investimento em propagandas por meio de comunicação.
 
   <a href="#"><img src="Animação.gif" alt="Logo"></a>
+=======
+<div>
+  Projeto de Ciência de Dados - Previsão de Vendas
+  
+  Projeto desenvolvido com o objetivo de prever as vendas baseando-se no investimento em propagandas por meio de comunicação.
+
+>>>>>>> 85af934775e6dac7c1541414774948bc4b759437
 </div>
 
 
