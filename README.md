@@ -6,24 +6,24 @@
 
 
 <!-- ============== ABOUT ============== -->
-## About the project
+## Sobre o projeto
 
 <div align="center">
-  Projeto de Ciencia de Dados - Previsão de Vendas
+  Projeto de Ciencia de Dados - Previsão de Vendas. Projeto desenvolvido com o objetivo de prever as vendas baseado-se no investimento em propagandas por meio de comunicação.
 
-  Projeto desenvolvido com o objetivo de prever as vendas baseado-se no investimento em propagandas por meio de comunicação.
+  <a href="#"><img src="Animação.gif" alt="Logo"></a>
 </div>
 
 
 <!-- ============== LANGUAGE ============== -->
-## Language and tools
+## Linguagens e Ferramentas
 
 ```
 > Python3
 ```
 
 <!-- ============== INSTALLATION ============== -->
-## Installation
+## Instalação
 
 ```
 https://github.com/PatriciaDaros/Analise-Preditiva.git
@@ -31,13 +31,13 @@ https://github.com/PatriciaDaros/Analise-Preditiva.git
 
 
 <!-- ============== LICENSE ============== -->
-## License
+## Licença
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
 
 <!-- ============== AUTHOR ============== -->
-## Author
+## Autor
 
 [<img alt="PatriciaRegina" src="https://github.com/PatriciaDaros.png?size=300" width="115"><br><sub>@PatriciaDaros</sub>](https://github.com/PatriciaDaros)
 
